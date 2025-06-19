@@ -75,7 +75,7 @@ A full-stack MERN application to manage and monitor student progress using the [
 | Layer         | Technologies                              |
 |---------------|-------------------------------------------|
 | **Frontend**  | React, Tailwind CSS                       |
-| **Backend**   | Node.js, Express.js                       |
+| **Backend**   | Node, Express.js                       |
 | **Database**  | MongoDB, Mongoose                         |
 | **Charts**    | ApexCharts, Chart.js                      |
 | **Emails**    | Nodemailer (SMTP)                         |
