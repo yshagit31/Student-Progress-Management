@@ -19,6 +19,7 @@ A full-stack MERN application to manage and monitor student progress using the [
 - [🌐 API Endpoints](#-api-endpoints)
 - [🚀 Setup Instructions](#-setup-instructions)
 - [🎥 Video Walkthrough](#-video-walkthrough)
+- [Documentation](#-documentation)
 - [📚 GitHub Repository](#-github-repository)
 - [🤝 Acknowledgments](#-acknowledgments)
 
@@ -190,6 +191,9 @@ student-progress-system/
 
 <!-- [Demo Video Link](#) *(Replace with your Google Drive, YouTube, or Loom link)* -->
 🔗 [Click here to watch the demo video](https://raw.githubusercontent.com/yshagit31/Student-Progress-Management/main/frontend/public/assets/Demo.mp4)
+
+## 📄 Documentation
+[View Full Documentation](./frontend/docs/document.docx)
 
 
 ## 📚 GitHub Repository
