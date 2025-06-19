@@ -189,7 +189,6 @@ student-progress-system/
 
 ## 🎥 Video Walkthrough
 
-<!-- [Demo Video Link](#) *(Replace with your Google Drive, YouTube, or Loom link)* -->
 🔗 [Click here to watch the demo video](https://raw.githubusercontent.com/yshagit31/Student-Progress-Management/main/frontend/public/assets/Demo.mp4)
 
 ## 📄 Documentation
